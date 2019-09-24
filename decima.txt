@@ -1,0 +1,27 @@
+
+Roberto Carlos Cruz Espinoza    00210619
+
+
+
+1)  A-B/(C*D$E)
+
+    A-B/(C*DE$)
+
+    A-B/(CDE$*)
+
+    A-B(CDE$*)/
+ 
+   R//    ABCDE$*/-
+
+
+2)  ((A+B)*C-(D-E))$(F+G)
+
+    ((AB+)*C-(DE-))$(FG+)
+
+    ((AB+)C*-(DE-))$(FG+)
+
+    ((AB+)C*(DE-)-)$(FG+)
+
+    ((AB+)C*(DE-)-)(FG+)$
+
+    AB+C*DE--FG+$    
