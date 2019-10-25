@@ -1,0 +1,69 @@
+Roberto Carlos Cruz Espinoza 00210619
+
+
+- arbol 1:
+ A: raiz
+ B,C,D,E: ramas
+ G,H,I,F: hojas 
+- arbol 2:
+ A: raiz
+ B,C,D,E,F,H: ramas
+ I,J,G,K,L: hojas
+
+- arbol 1:
+ A: nivel 0
+ B,C: nivel 1
+ D,E,F: nivel 2
+ G,H,I: nivel 3
+- arbol 2:
+ A: nivel 0
+ B: nivel 1
+ C,D: nivel 2
+ E,F,G,H: nivel 3
+ I,J,K,L: nivel 4
+
+
+- arbol 1:
+ profundidad: 3
+ peso: 9
+ orden: 2
+- arbol 2:
+ profundidad: 4
+ peso: 12
+ orden: 2
+
+- subarbol 1:
+      C    
+     / \
+     E  F
+    / \
+    H  I
+- subarbol 2:
+    D
+   / \
+  G   H
+    / \
+    K  L
+
+ninguno de los dos arboles es lleno porque no tienen la misma cantidad de hojas en sus ramas.
+
+ninguno de los dos arboles binarios son perfectos porque no tienen sus hojas al mismo nivel.
+
+arbol 1: in orden
+G-D-B-A-H-E-I-C-F.
+         post orden
+G-D-B-H-I-E-F-C-A.
+         pre orden
+A-B-D-G-E-H-I-C-F.
+
+arbol 2: in orden
+I-E-C-J-F-B-G-K-L-H-D-A.
+         post orden
+I-E-J-F-C-K-L-H-G-D-B-A.
+         pre orden
+A-B-C-E-I-F-J-D-G-H-K-L.
+
+
+
+
+
